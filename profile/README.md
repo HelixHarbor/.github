@@ -1,6 +1,6 @@
-# Welcome to Frontend-Backend-DevOps! 🎉
+# Welcome to HelixHarbor! 🎉
 
-Hello there, fellow code enthusiasts! You've stumbled upon the *Frontend-Backend-DevOps* organization, where we strive to sharpen our skills in full-stack development and DevOps practices. We are a group of three friends who love to experiment, learn, and grow together in the ever-evolving world of technology. 
+Hello there, fellow code enthusiasts! You've stumbled upon the *HelixHarbor* organization, where we strive to sharpen our skills in full-stack development and DevOps practices. We are a group of three friends who love to experiment, learn, and grow together in the ever-evolving world of technology. 
 
 ## What do we do? 🚀
 
